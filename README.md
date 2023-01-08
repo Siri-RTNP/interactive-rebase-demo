@@ -1,6 +1,6 @@
 # interactive-rebase-demo
 
-Let's take this absurd commit history and use interactive rebase to clean things up!  
+Let's take this absurd commit history and use interactive rebase to clean things up!
 
 The initial commit log:
 
@@ -15,6 +15,7 @@ The initial commit log:
 cbee26b I added project files
 0e19c7a initial commit
 ```
+
 The end goal:
 
 ```
@@ -24,3 +25,5 @@ b8f8889 add top navbar
 0ffb0aa add project files
 0e19c7a initial commit
 ```
+
+The result has been pushed in my-feature branch :)
